@@ -1,0 +1,19 @@
+{
+  "name": "deploy-backend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsp18/deploy-backend.git"
+  },
+  "author": "shivang parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsp18/deploy-backend/issues"
+  },
+  "homepage": "https://github.com/imsp18/deploy-backend#readme"
+}
